@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "username": "sainadh", "password": "sainadh", "role": "admin" },
+    { "username": "pavansai", "password": "pavansai", "role": "vendor" },
+    { "username": "kumar", "password": "kumar", "role": "farmer" }
+  ]
+}
